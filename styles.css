@@ -1,0 +1,24 @@
+/* Tag Selector */
+p {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Class Selector */
+.col {
+  background-color: #ffffcc;
+  padding: 10px;
+}
+
+/* ID Selector */
+#main-title {
+  font-size: 32px;
+  color: rgb(138, 174, 214);
+}
+
+/* Attribute Selector */
+input[type="text"] {
+  border: 2px solid #999;
+  background-color: #f9f9f9;
+}
